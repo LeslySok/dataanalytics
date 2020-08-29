@@ -1,2 +1,2 @@
-# dataanalytics
+# data_analytics
 Homework Spot
