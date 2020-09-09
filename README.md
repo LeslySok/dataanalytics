@@ -1,6 +1,8 @@
 # data_analytics
 Homework Spot
+
 Files:
+
 Data Analysis Report.docx file describing three conclusions that were drawn about Kickstarter campaigns, limitations of Kickstarter dataset and alternative tables and/or graphs that could be create.
 StarterBook.xlsx  file - Kickstart My Chart
 
